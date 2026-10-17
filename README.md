@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <Sena> 👋</h1>
+<h1 align="center">Hi, I'm Sena 👋</h1>
 <h3 align="center">Cyber Security 🛡️ | Penetration Testing</h3>
 
 <p align="center">
